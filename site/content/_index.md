@@ -1,5 +1,5 @@
 ---
-title: "Great coffee with a conscience"
+title: "葉物向け営農支援アプリ「マネベジ」"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
